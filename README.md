@@ -1,1 +1,4 @@
-# Monty ByteCode files interpreter
+# Monty
+
+### Monty Byte code interpreter
+Implementation in C
